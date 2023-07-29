@@ -1,5 +1,12 @@
-### Hi there 👋
+### 👾 Welcome to my account !!!1!!¡¡!!
 
+- I like to work with 📜 TypeScript and 🦀 Rust
+- Playing around with Deep Learning and LLMs
+- I'm an expert Stack Overflow seeker
+- Check out my latest App Store app 💛 "Regretful"
+- My favorite database is  MongoDB
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yushi1007&layout=compact)](https://github.com/yushi1007)
 <!--
 **TimTimich6/TimTimich6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
