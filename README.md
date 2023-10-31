@@ -1,4 +1,4 @@
-### 👾 Welcome to my account !!!1!!¡¡!!
+### 👾 Welcome
 
 - I like to work with 📜 TypeScript and 🦀 Rust
 - Playing around with Deep Learning and LLMs
